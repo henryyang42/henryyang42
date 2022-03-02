@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Visitor Count](https://komarev.com/ghpvc/?username=henryyang42&color=green&label=Profile+Viewers+since+2016/01/01)
+
+<img  src="https://github-readme-stats.vercel.app/api?username=henryyang42&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&card_width=300" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryyang42&layout=compact&langs_count=6&hide_title=true&hide_border=true" width="48%" >
