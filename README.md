@@ -12,11 +12,18 @@ I specialize in designing and scaling enterprise-grade AI systems, focusing on l
 
 
 ### 📈 Stats & Activity
-![Visitor Count](https://komarev.com/ghpvc/?username=henryyang42&color=green&label=Profile+Viewers+since+2022/01/01)
 
-<img  src="https://github-readme-stats.vercel.app/api?username=henryyang42&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&card_width=300" width="48%" align="right" >
+<div align="center">
+  <a href="https://github.com/henryyang42">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=henryyang42&theme=radical" alt="henryyang42 的貢獻連續紀錄" />
+  </a>
+</div>
 
+<br/>
+
+
+### 📫 **Connect with me
+- **[LinkedIn](https://www.linkedin.com/in/thyang-henry/)**
 
 ---
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/thyang-henry/)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=henryyang42&color=green&label=Profile+Viewers+since+2022/01/01)
